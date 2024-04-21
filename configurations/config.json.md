@@ -80,7 +80,7 @@ Seconds save player data: The time in seconds for automatic backup of inventorie
 autoSaveFileInventoryOnUpdate: true/false
 ```
 
-Auto save file inventory on update: allows you to save the file of jouueurs inventories automatically.
+Auto save file inventory on update: allows you to save the file of the player's inventories automatically.
 
 
 
